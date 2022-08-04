@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Yegi1824 (Yehor Ishchenko <egorkaishchenko@gamil.com>)
+- 👨‍💼 I'm currently working in iCore Technology (<https://www.icore.com.ua/>)
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MEAN stack
-- 💞️ I’m looking to collaborate with people on interestiong app creation
+- 💞️ I’m looking to collaborate with people on interesting app creation
 - 📫 How to reach me:
      * Telegram: @YegiZavr
      * Instagram: @YegiZavr
